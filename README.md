@@ -7,3 +7,5 @@ Below is the overview of diffferent experiments with different combination of fe
 ![image](https://github.com/gowtham07/Back_Channel_detection_using_Explicit_features/assets/15648676/d2117782-b90c-4fc6-980d-f76d16e11296)
 
 For the updated project and paper please refer the repo ('https://github.com/gowtham07/Backchannel_detection'). This repo is more of a trying repo which we used to fix on feature selection and simple model for this cause before going on to transformer architecture)
+
+Prerequisite: Need to extract features from video using OpenFace and OpenPose. Did not upload those files as they are confidential
