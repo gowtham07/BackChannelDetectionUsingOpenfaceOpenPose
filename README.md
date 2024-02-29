@@ -2,4 +2,8 @@ Back Channel Detection using explicit features extracted from Open Pose , Open F
 
 In our experiment we try to use different features from open face, open pose and open smile and try to analyze which features when comined or which features when used alone increases back channel prediction.
 
-For the updated project and paper please refer the repo ('https://github.com/gowtham07/Backchannel_detection'). This repo is more of a trying repo which we used to fix on feature selection and simple model for this cause before going on to transformer architecture
+Use the Explicit.ipynb to generate features and then use those generated features in the svm.ipynb to evaulate the importance of those features. 
+Below is the overview of diffferent experiments with different combination of features and different models
+![image](https://github.com/gowtham07/Back_Channel_detection_using_Explicit_features/assets/15648676/d2117782-b90c-4fc6-980d-f76d16e11296)
+
+For the updated project and paper please refer the repo ('https://github.com/gowtham07/Backchannel_detection'). This repo is more of a trying repo which we used to fix on feature selection and simple model for this cause before going on to transformer architecture)
